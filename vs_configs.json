@@ -1,0 +1,47 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.renderIndentGuides": false,
+    "FSharp.useSdkScripts": true,
+    "FSharp.autoRevealInExplorer": "enabled",
+    "FAKE.showTargetsOutlineIn": "fsharp",
+    "omnisharp.disableMSBuildDiagnosticWarning": true,
+    "extensions.autoUpdate": false,
+    "csharp.semanticHighlighting.enabled": true,
+    "editor.fontFamily": "Fira Code Regular, Courier Prime Regular, PT Mono, Consolas, 'Courier New', monospace",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "keyword",
+                "settings": {
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "storage",
+                "settings": {
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "constant.language",
+                "settings": {
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "support.class.builtin",
+                "settings": {
+                    "fontStyle": "bold"
+                }
+            }
+        ]
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "editor.insertSpaces": false,
+    "omnisharp.useGlobalMono": "always",
+    "editor.formatOnType": true
+}
